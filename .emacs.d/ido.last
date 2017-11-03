@@ -1,0 +1,330 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/tmp/Peek&Cloppenburg/" . "Phasen/")
+ ("/tmp/YILMAZ/itdesign Task Folder/Solution/IntelliJ Project Files/" . "XML Operation Applier/")
+ ("/tmp/YILMAZ/itdesign Task Folder/Solution/" . "IntelliJ Project Files/")
+ ("/tmp/YILMAZ/itdesign Task Folder/" . "Solution/")
+ ("/tmp/YILMAZ/" . "itdesign Task Folder/")
+ ("/gitroot/kratzer/clarity/" . "zitdscripts/")
+ ("/home/dh/Bilder/" . "2015-10-29 Grundsteinlegung/")
+ ("/scp:root@" . "xclfmgtest/")
+ ("/gitroot/kratzer/" . "misc/")
+ ("/smb:Administrator@xclkratzerdev:C$/ca/" . "Java/")
+ ("/smb:Administrator@xclkratzerdev:C$/" . "ca/")
+ ("/smb:Administrator@xclkratzerdev:/C$/ca/ppm/META-INF/" . "projmgr/")
+ ("/smb:Administrator@xclkratzerdev:" . "C$/")
+ ("/gitroot/Beiersdorf/clarity/webroot/" . "ui/")
+ ("/gitroot/Beiersdorf/clarity/" . "webroot/")
+ ("/mnt/" . "xclbdfdev/")
+ ("/smb:Administrator@xcldavinci:" . "C$/")
+ ("/home/dh/git-conv/" . "products-itdscriptsupport-git/")
+ ("/smb:Administrator@xclmmsdev:E$/" . "niku/")
+ ("/ssh:root@xraummon:/home/webuser/apache-tomcat-7.0.47/webapps/" . "ROOT/")
+ ("/ssh:root@xraummon:/home/webuser/apache-tomcat-7.0.47/" . "webapps/")
+ ("/ssh:root@xraummon:/home/webuser/" . "apache-tomcat-7.0.47/")
+ ("/ssh:root@xraummon:/home/" . "webuser/")
+ ("/gitroot/xraummon/apache-tomcat-7.0.47/webapps/ROOT/" . "raummon-ng/")
+ ("/gitroot/xraummon/apache-tomcat-7.0.47/webapps/" . "ROOT/")
+ ("/gitroot/xraummon/apache-tomcat-7.0.47/" . "webapps/")
+ ("/gitroot/xraummon/" . "apache-tomcat-7.0.47/")
+ ("/tmp/raummon/projects-xraummon-git/" . "apache-tomcat-7.0.47/")
+ ("/tmp/raummon/" . "projects-xraummon-git/")
+ ("/tmp/" . "Peek&Cloppenburg/")
+ ("/sudo::/usr/lib/" . "git-core/")
+ ("/sudo::/usr/" . "lib/")
+ ("/ssh:root@xraummon:/root/webapps/" . "ROOT/")
+ ("/ssh:root@xraummon:/root/" . "webapps/")
+ ("/ssh:root@xraummon:/" . "home/")
+ ("/ssh:root@" . "xclfischer.itd.local/")
+ ("/svnroot/Clarity/projects/Siemens/" . "database/")
+ ("/svnroot/Clarity/projects/Siemens/database/" . "functions/")
+ ("/smb:Administrator@xclppm:C$/" . "$Recycle.Bin/")
+ ("/smb:Administrator@xclppm:" . "C$/")
+ ("/smb:xclppm/" . "xclppm/")
+ ("/gitroot/itdwebdav/source/java/" . "itdwebdav/")
+ ("/gitroot/itdwebdav/source/" . "java/")
+ ("/home/dh/src/itdscriptsupport/src/de/itdesign/clarity/" . "scripting/")
+ ("/home/dh/src/itdscriptsupport/src/de/itdesign/" . "clarity/")
+ ("/home/dh/src/itdscriptsupport/src/de/" . "itdesign/")
+ ("/home/dh/src/itdscriptsupport/src/" . "de/")
+ ("/svnroot/Clarity/projects/KLAR/14.3/clarity/" . "zitdscripts/")
+ ("/svnroot/Clarity/" . "tools/")
+ ("/svnroot/" . "Clarity/")
+ ("/gitroot/" . "kratzer/")
+ ("/" . "tmp/")
+ ("/svnroot/Clarity/projects/Beiersdorf/source/ppm-meeting/src/" . "ppm_meeting/")
+ ("/home/dh/src/itdscriptsupport/" . "misc/")
+ ("/home/dh/src/commons-jelly-1.0-src/src/java/org/apache/commons/" . "jelly/")
+ ("/home/dh/src/commons-jelly-1.0-src/src/java/org/apache/" . "commons/")
+ ("/home/dh/src/commons-jelly-1.0-src/src/java/org/" . "apache/")
+ ("/home/dh/src/commons-jelly-1.0-src/src/java/" . "org/")
+ ("/home/dh/src/commons-jelly-1.0-src/src/" . "java/")
+ ("/home/dh/src/commons-jelly-1.0-src/" . "src/")
+ ("/home/dh/" . ".emacs.d/")
+ ("/home/dh/src/" . "Kawa/")
+ ("/ssh:clarity@tesla.itdhosting.de:/home/" . "clarity/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/gitroot/research/ppm-rest/"
+ "/tmp/"
+ "/gitroot/peek-cloppenburg/src/css/"
+ "/gitroot/peek-cloppenburg/"
+ "/gitroot/kratzer/source/clean-up/"
+ "/gitroot/beiersdorf/database/views/"
+ "/home/dh/docker/"
+ "/smb:Administrator@xcldbsysdev:/c$/ca/ppm/META-INF/projmgr/vxsl/staffing/"
+ "/gitroot/db-systel/clarity/zitdscripts/gel/"
+ "/smb:Administrator@xcldbsysdev:/c$/ca/ppm/META-INF/projmgr/vxsl/tasks/"
+ "/smb:Administrator@xcldbsysdev:/c$/ca/ppm/zitdscripts/"
+ "/gitroot/kratzer/database/scripts/"
+ "/home/dh/"
+ "/gitroot/kratzer/source/project-import/"
+ "/gitroot/kratzer/xog/queries/"
+ "/gitroot/kratzer/xog/instances/"
+ "/gitroot/kratzer/clarity/zitdscripts/gel/"
+ "/smb:Administrator@xclkratzerdev:/C$/ca/ppm/META-INF/security/xbl/"
+ "/gitroot/kratzer/xog/"
+ "/gitroot/kratzer/xog/themes/"
+ "/smb:Administrator@xclkratzerdev:/C$/ca/ppm/META-INF/projmgr/vxsl/projects/"
+ "/smb:Administrator@xclkratzerdev:/C$/ca/ppm/META-INF/timeadmin/vxsl/timesheets/"
+ "/smb:Administrator@xclkratzerdev:/C$/ca/ppm/META-INF/timeadmin/wmd/"
+ "/smb:Administrator@xclkratzerdev:/C$/ca/ppm/webroot/ui/uitk/gwt/com.ca.clarity.Gantt/"
+ "/home/dh/Downloads/install.15.1.0.6.35.i/"
+ "/smb:Administrator@xclkratzerdev:/C$/ca/ppm/META-INF/calendar/vxsl/actionitem/"
+ "/gitroot/tools/CleaningUpSystem/"
+ "/smb:Administrator@xclppm:/C$/niku/clarity/webroot/WEB-INF/"
+ "/home/dh/misc/"
+ "/gitroot/kratzer/misc/"
+ "/smb:Administrator@xclkratzerdev:/C$/ca/ppm/webroot/help/"
+ "/home/dh/BST/"
+ "/gitroot/beiersdorf/database/functions/"
+ "/gitroot/siemens/database/functions/"
+ "/gitroot/packager/"
+ "/gitroot/kratzer/source/data_mig_create_resource_xog/"
+ "/gitroot/kratzer/database/procedures/"
+ "/gitroot/kratzer/database/triggers/"
+ "/gitroot/siemens/database/procedures/"
+ "/gitroot/siemens/source/scripts/"
+ "/gitroot/siemens/clarity/zitdscripts/"
+ "/gitroot/beiersdorf/misc/2/"
+ "/gitroot/beiersdorf/database/scripts/"
+ "/gitroot/kratzer/xog/groups/"
+ "/home/dh/.emacs.d/"
+ "/gitroot/beiersdorf/misc/mockupo/"
+ "/gitroot/beiersdorf/source/patches/projmgr_jar_patch1/"
+ "/gitroot/beiersdorf/misc/"
+ "/gitroot/siemens/database/scripts/"
+ "/gitroot/communote-migration/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "ca-ppm-15.3.http"
+ "15.2.txt"
+ "15.3.txt"
+ "pc.css"
+ "README.md"
+ "z_hourly_rate_project_v.sql"
+ "hif.Dockerfile"
+ "teamList.xsl.org"
+ "removeProjectInstanceRights.groovy"
+ "taskList.xsl.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/dh/" (23008 25345 811575 202000) "scratchpad.org_archive~" ".signature-short" ".signature-short~" ".signature_old" "scratchpad.org~" ".zcompdump-PPM-Entw12-5.3.1" "thinclient_drives/" ".zcompdump-PPM-Entw12-5.3" ".zcompdump-PPM-Entw12-5.2" ".oracle_jre_usage/" ".selected_editor" ".gtkrc-2.0-kde4" "CheckPoint/" ".zshrc" ".jedit/" "misc/" "node_modules/" ".gvfs/" "z/" ".gitconfig" ".juniper_networks/" ".profile" ".vnc/" ".Xauthority" "Calibre-Bibliothek/" ".webex/" "VirtualBox VMs/" ".IdeaIC14/" "hörspiele re/" ".node_repl_history" ".xfce4-session.verbose-log" ".gstreamer-0.10/" "opt/" ".zshrc.pre-oh-my-zsh" ".wine/" ".cmake/" ".ipython/" ".fonts/" ".wireshark/" ".h2.server.properties" "scratchpad-2009-2014.org" "src/" ".oh-my-zsh/" ".cpan/" ".gitconfig~" ".ICEauthority" ".directory" ".tora.tse" ".signature" ".xfce4-session.verbose-log.last" ".gradle/" ".gnome2_private/" ".gnome2/" "vm/" "workspace/" ".swt/" ".eclipse/" ".emacs" ".RapidSVN" ".adobe/" "app/" ".vim/" ".xsession" "ca/" ".viminfo" ".packager/" "print.pdf" ".sqldeveloper/" "perl5/" ".gimp-2.8/" ".jython-cache/" ".ssh/" ".docker/" ".gnome/" ".thinclient_drives/" "workspace-jee/" "smbauth/" ".quodlibet/" "docker/" ".boot/" ".groovy/" ".xsession-errors" "bin/" ".wget-hsts" ".signature~" ".macromedia/" ".warprc" ".racket/" ".recently-used" ".gtk-bookmarks" "BST/" "mozilla.pdf" ".fossil" ".lesshst" ".zsh_history" ".jrslic" ".zcompdump" ".remmina/" ".gtkrc-2.0" ".emacs~" ".netrc" ".pki/" ".jr-3.6" "lib/" "user/" ".squirrel-sql/" ".svnqt/" "scratchpad-2015.org" "DAVExplorer.dat" ".java/" ".android/" "GNUstep/" ".jsbeautifyrc" "repos/" ".npm/" ".subversion/" "JaspersoftWorkspace/" ".screenlayout/" ".zshenv" "scratchpad-2016.org" ".thunderbird/" ".hgrc" ".elm/" "scratchpad.org_archive" ".m2/" ".lein/" "scratchpad.org" ".icedove/" ".thumbnails/" "tmp/" ".bash_history" ".mozilla/" ".emacs.d/" ".cache/" "Desktop/" ".gconf/" ".gnupg/" ".local/" ".kde/" ".dbus/" ".config/" "Videos/" "Bilder/" "Musik/" "Dokumente/" "Öffentlich/" "Vorlagen/" "Downloads/" ".zsh-update" ".dmrc" "gradle-app.setting" ".sqlite_history" "screenshots/" ".gnuplot_history" "keystore" ".bashrc" ".bash_logout" "../" "./")
+
+ ("/gitroot/kratzer/clarity/META-INF/timeadmin/pmd/" (23007 32189 254097 918000) "timesheetDataPMD.xml" "timesheetDataPMD.xml.org" "../" "./")
+
+ ("/gitroot/peek-cloppenburg/xog/" (23007 10474 24099 692000) "xog.properties" "portlets/" "themes/" "run.bat" "run" "env.sh" "../" "./")
+
+ ("/gitroot/peek-cloppenburg/" (23005 62589 855347 623000) "clarity/" "xog/" "src/" ".gitignore" "README.md" ".git/" "../" "./")
+
+ ("/gitroot/research/ppm-rest/" (23007 3007 821838 108000) "rest-api-15.3.http" "rest-api-15.3.http~" "../" "./")
+
+ ("/tmp/Peek&Cloppenburg/Phasen/" (23005 58478 0 0) "original.PNG" "original - Kopie.PNG" "4_Phase.PNG" "3_Phase.PNG" "2_Phase.PNG" "1_Phase.PNG" "0_Phase.PNG" "../" "./")
+
+ ("/tmp/Peek&Cloppenburg/" (23005 57904 0 0) "~$c_pprm-tool_verprobung_itdesign_v1.5_20170927_dch.docx" "~$c_pprm-tool_verprobung_itdesign_v1.5_20170927.docx" "puc_pprm-tool_verprobung_itdesign_v1.5_20170927_dch.docx" "puc_pprm-tool_verprobung_itdesign_v1.5_20170927.docx" "Phasen/" "../" "./")
+
+ ("/tmp/" (23005 61936 153133 867000) "khtmlcacheym4243.tmp" "khtmlcacheQB4243.tmp" "Peek&Cloppenburg/" "15.3.txt" "15.2.txt" "clipboardcache-29" "clipboardcache-28" "clipboardcache-27" "clipboardcache-26" "clipboardcache-25" "clipboardcache-24" "clipboardcache-23" "clipboardcache-22" "clipboardcache-21" "clipboardcache-20" "clipboardcache-19" "clipboardcache-18" "clipboardcache-17" "clipboardcache-16" "clipboardcache-15" "clipboardcache-14" "clipboardcache-13" "clipboardcache-12" "clipboardcache-11" "clipboardcache-10" "clipboardcache-9" "clipboardcache-8" "clipboardcache-7" "clipboardcache-6" "clipboardcache-5" "clipboardcache-4" "clipboardcache-3" "clipboardcache-2" "clipboardcache-1" "clipboardcache" "kde-dh/" "khtmlcacherc4243.tmp" "hsperfdata_dh/" "mozilla_dh0/" "khtmlcachexe4243.tmp" "khtmlcacheUV4243.tmp" "khtmlcachexv4243.tmp" "khtmlcacherA4243.tmp" "emacs1000/" "babel-6887dPz/" "thunderbird_dh/" ".vbox-dh-ipc/" ".org.chromium.Chromium.lfUGMi/" "sni-qt_kaccessibleapp_1872-G3rTPH/" "akonadi-dh.iL49js/" "xauth-1000-_0" "ssh-kKbyROHLiQBQ/" "kwallet5_dh.socket" "sddm-:0-AxJHHB" "sddm-auth82e26c67-d009-4dc9-b2c0-535fd341ff3e" "systemd-private-9d7f5460c505406ca9ab51d0bbcb6117-apache2.service-DRrCbw/" "pulse-PKdhtXMmr18n/" "systemd-private-9d7f5460c505406ca9ab51d0bbcb6117-rtkit-daemon.service-vK3RdF/" ".Test-unix/" ".font-unix/" ".XIM-unix/" ".ICE-unix/" ".X11-unix/" "../" "./")
+
+ ("/gitroot/Spielwiese/" (22888 43745 893428 283000) "clarity-teamcenter.docx" "clarity-teamcenter.html" "clarity-teamcenter.md" "rest.http" "README.md" ".gitignore" "bb-list.sh" "ppm_dev_docs.adoc" ".git/" "../" "./")
+
+ ("/gitroot/peek-cloppenburg/xog/themes/" (23005 58703 591264 741000) "pc_write.xml" "pc_read.xml" "../" "./")
+
+ ("/home/dh/src/" (22877 65451 990905 726000) "zguide/" "Kawa/" "kawa-svn/" "FreeRDP/" "raummon-ng/" "raummon/" "itdwebdav/" "ocamljava/" "ppm-meeting/" "strokes/" "commons-jelly-1.0-src/" "thunderbird/" "itdscriptsupport/" "dwm-6.0/" "pfff/" "reacl/" "kawa-experimente/" "emacs/" "urlmon/" "jd-gui/" "squirrel-sql-git/" "clojureklein/" "tools.nrepl/" "opencsv-2.3/" "litmus-0.13/" "cljscripting/" "../" "./")
+
+ ("/gitroot/peek-cloppenburg/src/css/" (23005 50381 206380 450000) "ui.css" "ui.css~" "../" "./")
+
+ ("/gitroot/kratzer/source/clean-up/" (23004 42216 4681 545000) "README.md" "README.md~" "../" "./")
+
+ ("/gitroot/beiersdorf/source/patches/projmgr_jar_patch1/" (23004 30377 832413 133000) "projmgr.jar" "patch_jar.sh" ".gitignore" "projmgr.jar.org" "patch_jar.bat" ".project" ".classpath" "src/" "../" "./")
+
+ ("/gitroot/beiersdorf/database/scripts/" (23004 30377 812412 701000) "set_proj_type_2_brief_full.sql" "set_close_date_for_proj_closed_with_old_process_ver.sql" "rename_budg_plan_2_appr_budg_plan.sql" "remove_etc_from_migration_actuals_tasks.sql" "populate-magic-lookup-ids.sql" "migrate to commercial value.sql" "migrate opportunity to proj level.sql" "lock_project-z_close_date.sql" "lock-iim-subprojects-opportunity.sql" "lock-iim-subprojects-commercial val and type.sql" "grant sp_prepexec_to_niku_user.sql" "fix-z_actuals.sql" "drop-trigger-Z_BDF_CLUSTER_AVG_FEI_UPDATE_ROUTE.sql" "z_gmd_org_structure_transfer_testdata.sql" "validate-process-z_srv_req_approval_v14.sql" "validate-process-z_srv_req_approval_v13.sql" "update_sc_project_name.sql" "update_rnd_role_name_for_res_class_upd.sql" "update_leading_gbu.sql" "drop-trigger-Z_BDF_CLUSTER_AVG_FEI_REWARD.sql" "unlock-primary-role.sql" "unlock-lock-user-department.sql" "testdata-z_gmd_resources_transfer.sql" "testdata-z_gmd_org_structure_transfer.sql" "study-transclass-to-transtype-material.sql" "study-resources-to-resource_type-material.sql" "set_cluster_average_fei_reward.sql" "set-new-cluster-project-linking.sql" "clear-project-z_close_date-for-nonclosed-projects.sql" "update_cluster_link_html_lkup_attrib.sql" "reverse_study_nonobligo_trans.sql" "rename_ops2sc_template2.sql" "rename_ops2sc_template1.sql" "rename_ops2sc_lookups.sql" "rename_ops2sc_investments.sql" "rename_ops2sc_cmncaptionsnls3.sql" "rename_ops2sc_cmncaptionsnls2.sql" "rename_ops2sc_cmncaptionsnls.sql" "db_dump_anonymization.sql" "remove_default_from_copy_srv_task.sql" "once-transaction-import-usercafe-2.sql" "once-transaction-import-jaspertest.sql" "no_popup_for_task_plan_from_service_action.sql" "task_deliverable_pctcompl.sql" "lock-task-z_new_service_type.sql" "lock-task-z_close_date.sql" "lock-task-z_approval_date.sql" "index-odf_multi_valued_lookups_z_pk_id.sql" "cluster route removal restructure 003.sql" "dwh_adjust_meta_tables.sql" "drop_opp_owner_t.sql" "drop_function_z_inv_hours_costs_v.sql" "drop-z_sync_inv_from_plan.sql" "drop-z_bdf_route_oppdata_t.sql" "drop-views-R16.sql" "drop-view-z_rd_export_srv_req_v.sql" "drop-view-z_inv_route_cluster_opp_hier_v.sql" "drop-view-z_inv_plan_budg_hours_v.sql" "drop-view-z_inv_hours_costs_v.sql" "drop-view-z_inv_costs_by_transclass_v.sql" "drop-trigger-z_odf_ca_project_t1.sql" "drop-trigger-z_bdf_stat_rpt_cost_snapshot_t.sql" "drop-trigger-Z_INV_IDS_T.sql" "drop-trigger-Z_BDF_ROUTE_OWNER.sql" "drop-trigger-Z_BDF_COST_OF_EXP_STUDY_T.sql" "cluster route removal restructure 002.sql" "accolade-cleanup.sql" "drop-procedure-Z_BDF_POP_PPM_MEETING_DATA_SP.sql" "drop-function-z_user_proj_inst_fct.sql" "delete-inactive-lookup-values.sql" "set-cluster-default-status.sql" "cluster route removal restructure 001.sql" "change-studies-resources-to-resource-class-studies.sql" "change-sc-lookups.sql" "change-route-linking-lookups.sql" "change static lookups to dynamic.sql" "ca_ppm_adjust_dwh_meta_tables.sql" "alter_pfm_inv_constraint_sums_ph_curve_sum_scale.sql" "alter-table_z_itd_if-column_interface_version.sql" "adjust-prediscussion-status.sql" "adjust-lookup-SCH_BROWSE_PARENT_DEPT.sql" "accolade-field-consolidation-1.sql" "../" "./")
+
+ ("/gitroot/beiersdorf/database/functions/" (23004 30377 808412 614000) "z_get_prj_milestones.sql" "z_fin_prj_total_costs_table.sql" "z_fin_prj_hours_table.sql" "z_fin_prj_cost_table.sql" "z_fin_plan_cost_extract.sql" "z_user_proj_inst_fct.sql" "z_status_report_detail_fct.sql" "z_mvl_listagg.sql" "z_iim_cp_start.sql" "z_iim_cp_end.sql" "z_get_project_texts.sql" "z_get_proj_full_name.sql" "z_get_program_texts.sql" "z_get_all_resource_names.sql" "../" "./")
+
+ ("/gitroot/beiersdorf/database/views/" (23004 30377 816412 787000) "z_ppm_meeting_act_costs_v.sql" "z_target_budget_sl_v.sql" "z_ppm_meeting_plan_hours_v.sql" "z_inv_opp_hier_v.sql" "z_inv_hours_costs_v.sql" "#z_iim_plan_costs_by_phases.sql#" "z_study_tasks_v.sql" "z_inv_hours_briefing_v.sql" "z_iim_planned_eff_by_phases.sql" "z_iim_actuals_by_phases.sql" "z_hourly_rate_v.sql" "z_hourly_rate_project_v.sql" "z_bdf_projects_export.sql" "z_hourly_rate_project_v.sql~" "z_ppm_meeting_plan_costs_v.sql" "z_inv_costs_l2_v.sql" "z_inv_plan_budg_hours_v.sql" "z_inv_hours_l2_v.sql" "z_inv_hours_costs_briefing_v.sql" "z_inv_costs_by_transclass_v.sql" "z_iim_plan_costs_by_phases.sql" "z_user_proj_inst_v.sql" "z_task_action_disp_map_v.sql" "z_rpt_periods_v.sql" "z_rpt_per_day_availability.sql" "z_rd_export_z_bdf_status_v.sql" "z_rd_export_test_teams_v.sql" "z_rd_export_srv_req_v.sql" "z_rd_export_srv_req_team_v.sql" "z_rd_export_service_types_v.sql" "z_rd_export_regions_v.sql" "z_rd_export_projects_v.sql" "z_rd_export_iim_projects_v.sql" "z_rd_export_iim_prj_type_v.sql" "z_rd_export_iim_hier_v.sql" "z_rd_export_briefings_v.sql" "z_proj_route_cluster_v.sql" "z_proj_frc_bud_act_costs_by_transclass_v.sql" "z_prog_action_disp_map_v.sql" "z_ppm_meeting_hours_v.sql" "z_ppm_meeting_costs_v.sql" "z_phase_periods.sql" "z_linking_route_project_v.sql" "z_linking_route_opportunity_v.sql" "z_linking_route_cluster_v.sql" "z_inv_route_cluster_opp_hier_v.sql" "z_iim_planned_investments.sql" "z_proj_action_disp_map_v.sql" "z_bdf_project_z_full_name.sql" "z_bdf_periods_v.sql" "Z_DWH_TEAM_V.sql" "Z_DWH_TASK_V.sql" "Z_DWH_PROJECT_V.sql" "Z_DWH_ODF_MV_LOOKUPS_V.sql" "Z_DWH_FIN_TRANSACTION_V.sql" "Z_DWH_DW_INVESTMENT_V.sql" "Z_DWH_COSTPLAN_V.sql" "Z_DWH_ASSIGNMENT_V.sql" "../" "./")
+
+ ("/gitroot/beiersdorf/" (23004 30377 820412 874000) "doc/" ".gitignore" "13.3/" "xog/" "source/" "reports/" "packages/" "deploy/" "database/" "clarity/" "NOTES.txt" ".projectile" ".git/" "../" "./")
+
+ ("/gitroot/beiersdorf/reports/IIM Project Report Master/resources/organizations/Beiersdorf_AG/BDF_Reports/RnD_Reports/" (23004 28877 776166 37000) "Resource_IIM_Total_Costs.jrxml.xml" "Resource_IIM_Total_Costs.jrxml.data" "Resource_IIM_Hours.jrxml.xml" "Resource_IIM_Hours.jrxml.data" "Accolade_Transfer.jrxml.xml" "Accolade_Transfer.jrxml.data" "Project_IIM_LargeStrings.jrxml.xml" "Project_IIM_LargeStrings.jrxml.data" "Resource_IIM_Costs.jrxml.xml" "Resource_IIM_Costs.jrxml.data" "Gates.jrxml.xml" "Gates.jrxml.data" "Resource_IIM_Hours_Master.jrxml.xml" "Resource_IIM_Hours_Master.jrxml.data" "Service_IIM_Overview.jrxml.xml" "Service_IIM_Overview.jrxml.data" "IIM_Project_Report_Master.xml" ".folder.xml" "IIM_Project_Report_Master_files/" "../" "./")
+
+ ("/home/dh/docker/" (23003 24744 428090 374000) "isi/" "hif.Dockerfile" "hif.Dockerfile~" "c.docker" "../" "./")
+
+ ("/home/dh/.emacs.d/" (23003 9381 57147 367000) "ido.last" "elpa-dh-tmp/" "ido.last~" "bookmarks" "session.10c6f0c1a4000147315359500000026350095" "session.10c6f0c1a4000149630115600000012450020" "eshell/" "url/" "projectile-bookmarks.eld" "projectile.cache" "session.10c6f0c1a4000142564207400000211090170" "session.10c6f0c1a4000142537036400000159540030" "games/" ".mc-lists.el" "tramp" "elpa/" "site-lisp/" "auto-save-list/" "../" "./")
+
+ ("/gitroot/db-systel/clarity/zitdscripts/gel/" (22998 15002 196862 425000) "copy_subproj_from_template.groovy" "historize.groovy" "historize.groovy.parameters" "../" "./")
+
+ ("/gitroot/beiersdorf/clarity/zitdscripts/rights/" (22989 63858 401291 644000) "remove_edit_rights_over_closed_project.groovy" "RndRights.groovy" "z_rd_route_cluster_owner_rights.groovy" "z_rd_prj_manager_rights.groovy" "z_rd_lab_mger_rights.groovy" "z_rd_cluster_opp_owner_rights.groovy" "z_scm_vp_sc_rights.groovy" "z_scm_team_member_rights.groovy" "z_scm_svp_sc_rights.groovy" "z_scm_project_owner_rights.groovy" "z_scm_pm_scpl_rights.groovy" "z_scm_operations_transfergate_rights.groovy" "z_scm_operations_teamlead_rights.groovy" "z_scm_operations_portfoliomanager_rights.groovy" "z_rd_prc_scientist_rights.groovy" "z_rd_pf_manager_rights.groovy" "z_rd_function_head_rights.groovy" "z_rd_core_team_member_rights.groovy" "z_rd_controlling_rights.groovy" "z_gbu_team_member_rights.groovy" "z_gbu_team_leader_rights.groovy" "z_gbu_innocouple_rights.groovy" "z_gbu_head_rights.groovy" "rights_management.groovy" "remove_instance_rights.groovy" "proxy/" "../" "./")
+
+ ("/gitroot/db-systel/xog/" (22998 14967 116094 658000) "lookups/" "fields/" "xog.properties" "processes/" "objects/" "run.bat" "run" "portlets/" "env.sh" "../" "./")
+
+ ("/gitroot/db-systel/xog/lookups/" (22997 63597 720229 897000) "LOOKUP_USERS_write.xml" "LOOKUP_USERS_read.xml" "../" "./")
+
+ ("/gitroot/db-systel/database/scripts/" (22997 57829 592316 432000) "../" "./")
+
+ ("/gitroot/db-systel/" (22997 52019 967438 83000) ".gitignore" "database/" "xog/" "clarity/" "README.md" ".git/" "../" "./")
+
+ ("/gitroot/db-systel/xog/fields/" (22997 54016 706649 141000) "project-z_read_only_write.xml" "project-z_read_only.cfg" "project-z_read_only.cfg~" "extract.sh" "../" "./")
+
+ ("/gitroot/db-systel/database/procedures/" (22997 52591 631815 797000) "z_itd_lockfield.prc" "z_lock_project.prc" "z_lock_project.prc~" "../" "./")
+
+ ("/gitroot/db-systel/clarity/zitdscripts/" (22997 8492 875349 335000) "ifcommon.groovy" "gel/" "isrexec.properties" "isrexec.parameters" "isrexec.bat" "isrexec" "../" "./")
+
+ ("/gitroot/kratzer/clarity/zitdscripts/xbl/" (22986 6574 437170 82000) "addToProjectTeam.groovy" "../" "./")
+
+ ("/gitroot/db-systel/clarity/" (22990 20101 503075 472000) "zitdscripts/" "webroot/" "customlib/" "../" "./")
+
+ ("/gitroot/beiersdorf/xog/jobs/" (22989 63859 353312 158000) "z_allocate_from_estimates_job_write.xml" "z_linking_sync_route_fields_write.xml" "z_nan_wiper_write.xml~" "z_nan_logger_write.xml~" "z_update_proxy_rights_write.xml" "z_update_master_baseline_write.xml" "z_update_master_baseline_read.xml" "z_sync_proj_stat_area_obs_write.xml" "z_submit_timesheets_write.xml" "z_submit_timesheets_read.xml" "z_set_nontimerec_avail_2_zero_write.xml" "z_set_nontimerec_avail_2_zero_read.xml" "z_set_closed_proj_values_job_write.xml" "z_rights_management_write.xml" "z_remove_instance_rights_write.xml" "z_reduce_planned_etc_v1_write.xml" "z_reduce_planned_etc_v1_read.xml" "z_prep_data_mon_bud_hour_write.xml" "z_post_to_wip_write.xml" "z_pfm_sync_all_write.xml" "z_manage_2_rnd_tm_group_rights_write.xml" "z_linking_sync_route_fields_read.xml" "z_ins_mega_portlet_rights_job_write.xml" "z_import_study_actuals_write.xml" "z_import_study_actuals_read.xml" "z_if_sap_fi_write.xml" "z_if_sap_fi_read.xml" "z_if_resimport_write.xml" "z_if_oeimport_write.xml" "z_if_oeimport_read.xml" "z_if_ltlimport_write.xml" "z_if_acctocla_write.xml" "z_if_acctocla_read.xml" "z_if_accrights_write.xml" "z_if_accrights_read.xml" "z_historize_project_data_write.xml" "z_historize_project_data_read.xml" "z_force_user_update_write.xml" "z_force_user_update_read.xml" "z_delete_old_log_entries_write.xml" "z_delete_old_log_entries_read.xml" "z_del_job_instances_write.xml" "z_del_job_instances_read.xml" "z_del_edit_rights_closed_proj_write.xml" "z_create_oe_roles_write.xml" "z_create_group_perm_job_write.xml" "z_create_group_perm_job_read.xml" "z_clear_etc_4m_close_kill_proj_write.xml" "z_clear_etc_4m_close_kill_proj_read.xml" "z_bdf_ts_reduce_role_etc_write.xml" "z_bdf_ts_reduce_role_etc_read.xml" "z_assign_planned_from_role_write.xml" "z_assign_planned_from_role_read.xml" "z_allocate_from_estimates_job_read.xml" "z_6route_cluster_owner_rights_write.xml" "../" "./")
+
+ ("/gitroot/kratzer/database/views/" (22987 16275 714225 954000) "z_ka_export_timeentries_v.sql" "p.sql" "p.sql~" "z_ka_export_tasks_v.sql" "z_ka_export_assignments_v.sql" "z_ka_export_projects_v.sql" "../" "./")
+
+ ("/gitroot/communote-migration/" (22858 5326 897539 218000) "communote-blog-create.png" "communote-blog-nav.png" "README.html" "msg.json" "README.md" ".gitignore" "README.html~" "README.md~" "structure-communote-data.jpg" "communote-export/" ".git/" "../" "./")
+
+ ("/gitroot/beiersdorf/misc/" (22987 24564 248478 925000) "Grundlage_Kostenschätzung_itd.xlsx" "tc.md" "projects-apac.xlsx" "Clarity_RnD_Stand_06062017.zip" "tc-not-available.png" "BSS_CA_PPM_Simplification_Functional Design_v12.docx" "z_test_ts_write.xml" "bdf_auto_ts.sql" "Clarity_PPM_R4_Testplan_20170427_0800.xlsx" "Clarity_RnD_Stand_26042017_ohneCluster.zip" "2/" "project-fields-R20_write.xml" "project-fields-R20.cfg" "mockupo/" "20170330 Project list_PPM fields.xlsx" "BSS_CA_PPM_Simplification_Functional Design_v08_kommentiert.docx" "table.html" "wrong-branch.png" "create_attribute_z_internal_order.png" "20161212/" "20161212.zip" "P_TS_GC (Work Resources).rdp" "Business case OVERVIEW.xlsx" "am_6.11.2016_um_20_27_21_hochladen.png" "ts.sh" "../" "./")
+
+ ("/gitroot/beiersdorf/misc/mockupo/" (22783 15820 215362 878000) "lookups_write.xml" "../" "./")
+
+ ("/gitroot/beiersdorf/misc/2/" (22783 21282 253141 403000) "project_fields-R20_write.xml" "../" "./")
+
+ ("/gitroot/kratzer/database/triggers/" (22988 40356 944554 177000) "z_other_name_pnr_t.sql" "z_other_name_pnr_t.sql~" "z_task_planned_effort_t.sql" "z_project_name_pnr_t.sql" "z_lock_proj_attributes_t.sql" "z_planned_effort_oct_t.sql" "z_lock_task_etc_t.sql" "z_last_updated_t.sql" "z_assgn_lock_task_etc_t.sql" "../" "./")
+
+ ("/gitroot/kratzer/database/procedures/" (22944 4830 424417 537000) "z_lock_planned_effort.sql" "z_agg_planned_effort.sql" "z_populate_planned_effort.sql" "z_itd_unlockfield.sql" "z_itd_lockfield.sql" "../" "./")
+
+ ("/gitroot/kratzer/misc/" (22925 56139 645279 96000) "project-import-prod.xlsx" "project-import-prod.ods" "PPM_OAS_IMPORT/" "PPM_OAS_IMPORT.zip" "image002.png" "image004.png" "image003.png" "OAS_PROJECTS_TASKS.zip" "screen-comp-2-4-CLOSING.png" "screen-comp-2-3-EXECUTION.png" "screen-comp-2-2-PLANNING.png" "screen-comp-2-1-INITIALISATION.png" "svg-logo.png" "kratzer_automation-WEISS.svg" "html-mail-beispiel.html" "task-action.png" "OASX_PNRs.zip" "OAS_PROJECTS_TASKS_IMPORT.zip" "roles_KA.xml" "mp-tooltip.png" "NavigationPages_20170314.zip" "home.png" "screen-comp-1-2.png" "Zeiterfassung-Beispieldaten.xlsx" "gantt-files.txt" "REQ009420 Lookup itd AE New Assignment Tasks vorher.png" "../" "./")
+
+ ("/gitroot/tools/CleaningUpSystem/" (22781 40828 360016 60000) "README.md" "xog/" "gel/" "clarity/" "Notes/" "../" "./")
+
+ ("/gitroot/kratzer/clarity/zitdscripts/gel/" (22975 52273 74697 655000) "approveTimesheet.groovy" "projectCharterApprovalPostProcessRejection.groovy" "projectCharterApprovalInit.groovy" "projectCharterApprovalPostProcessApproval.groovy" "deleteEmptyTimeentries.groovy" "approveTimesheet.groovy.parameters" "notifyProjectCharterApproval.groovy" "notifyChangeRequestApproval.groovy" "notifyChangeRequestApproval.groovy.parameters" "../" "./")
+
+ ("/gitroot/kratzer/xog/queries/" (22941 11469 676292 701000) "cop.prjScheduleDashboard_write.xml" "cop.prjScheduleDashboard_write_org.xml" "cop.prjScheduleDashboard_read.xml" "../" "./")
+
+ ("/gitroot/kratzer/source/project-import/" (22967 56603 474911 737000) "README.md" "projectimport.groovy" "isrexec" "projectimport.groovy.parameters" "kaexec.bat" "logTableTools.groovy" "isrexec.properties" "isrexec.bat" "ifcommon.groovy" "dmcommon.groovy" "../" "./")
+
+ ("/gitroot/kratzer/database/scripts/" (22988 40966 113638 141000) "PPM_OAS_TASK_IMPORT.sql" "PPM_OAS_PROJECT_IMPORT.sql" "recalculate-planned-effort.sql" "reslice-allocation.sql" "update_timeslices.sql" "drop-trigger-z_planned_effort_prtask_t.sql" "set-default-input-type-code.sql" "set-default-charge-code.sql" "remove-leading-spaces.sql" "migrate-other-short-name.sql" "update_pwd_for_new_users.sql" "set-arp-default-config.sql" "remove_user_id_references.sql" "pnr_testdata.sql" "fixes-after-clean.sql" "enable-url-debug-param.sql" "../" "./")
+
+ ("/gitroot/beiersdorf/clarity/webroot/bdf/nav/" (22988 61931 3504 553000) "home_page.groovy" "prj_details.groovy" "prj_nav.groovy" "user_allocations.jsp" "pl_navigation.png" "img/" "home_page.jpg" "ProjectCockpit.jpg" "NonAuthenticatedClarityGroovlet.groovy" "ImageMapInfo.groovy" "ImageButton.groovy" "ClarityGroovlet.groovy" "../" "./")
+
+ ("/gitroot/kratzer/xog/fields/" (22988 40445 398454 457000) "R10_write.xml" "R10.cfg" "R7-project_write.xml" "R7-project.cfg" "R7-project.bat" "R6-inv_write.xml" "R6-inv.cfg" "extract.sh" "R1-task_write.xml" "R1-task.cfg" "R1-project_write.xml" "R1-project.cfg" "R1-inv_write.xml" "R1-inv.cfg" "../" "./")
+
+ ("/gitroot/kratzer/clarity/webroot/ui/itd/" (22988 40100 215039 36000) "otherWorkCreatePageHandler.js" "otherWorkCreatePageHandler.js~" "projectCreatePageHandler.js" "projectPropertiesPageHandler.js" "changePageHandler.js" "breadcrumb.js" "../" "./")
+
+ ("/gitroot/kratzer/clarity/webroot/ui/uif/js/" (22988 38064 955389 801000) "clarity_main_min.js" "hook.js" "clarity_main_min.js.org" "clarity_main.js" "clarity.js" "../" "./")
+
+ ("/gitroot/kratzer/" (22941 19064 643439 927000) ".gitignore" "README.md" ".dir-locals.el" "source/" "xog/" "misc/" "packages/" "database/" "clarity/" ".git/" "../" "./")
+
+ ("/gitroot/kratzer/xog/lookups/" (22984 53776 635309 400000) "PL.ITD.AE.LKP.NEW.ASSIGN.TASKS_write.xml" "PL.ITD.AE.LKP.NEW.ASSIGN.TASKS_write.xml.~HEAD~1~" "PL.ITD.AE.LKP.PREFERENCES_write.xml" "PL.ITD.AE.LKP.PREFERENCES_read.xml" "z_pnr_write.xml" "z_pnr_read.xml" "z_all_users_and_dummy_write.xml" "z_all_users_and_dummy_read.xml" "Z_TODO_TASKS_write.xml" "Z_TODO_TASKS_read.xml" "PL_ITD_GWT_CAPTIONS_write.xml" "PL_ITD_GWT_CAPTIONS_read.xml" "PL.ITD.AE.LKP.NEW.ASSIGN.TASKS_read.xml" "../" "./")
+
+ ("/gitroot/itdscriptsupport/" (22980 61423 33319 589000) "README.html" "README.md" "README.html~" "target/" "xog/" "pom.xml" ".project" ".classpath" "src/" "misc/" "clarity/" ".settings/" ".git/" "../" "./")
+
+ ("/gitroot/beiersdorf/source/accoladeif/src/de/itdesign/beiersdorf/model/" (22978 4493 153388 184000) "SubProject.groovy" "IimProject.groovy" "Board.groovy" "subproject/" "group/" "financial/" "User.groovy" "TeamMember.groovy" "Task.groovy" "Segment.groovy" "Milestone.groovy" "../" "./")
+
+ ("/gitroot/beiersdorf/source/accoladeif/" (22977 12563 980450 327000) "run.sh" "build.gradle" "README.md" "build/" ".gradle/" "src/" "resources/" "fieldmapping.txt" "deploy.sh" "deploy-xclbdftest.sh" "../" "./")
+
+ ("/gitroot/beiersdorf/source/accoladeif/src/de/itdesign/beiersdorf/controller/" (22977 12470 262382 486000) "AccoladeToClarity.groovy" "ApplicationController.groovy" "../" "./")
+
+ ("/gitroot/beiersdorf/source/accoladeif/resources/" (22839 58582 952835 929000) "team.vm" "subProject.vm" "program.vm" "taskhierarchy.vm" "subProjects.vm" "milestone.vm" "log4j.properties" "hierarchies.vm" "groups.vm" "group.vm" "dependencies.vm" "boards.vm" "META-INF/" "../" "./")
+
+ ("/tmp/itdesign bewerberaufgabe mmorgalla/" (22977 2731 422084 782000) "build/" "src/" "settings.gradle" "lib/" "gradlew" "gradle/" "build.gradle" ".idea/" ".gradle/" "../" "./")
+
+ ("/tmp/itdesign bewerberaufgabe mmorgalla/src/main/java/de/itdesign/bewerberaufgabe/mmorgalla/" (22977 3146 255142 813000) "Main.kt" "FilePaths.kt" "ExtensionMethods.kt" "DOMParser.kt" "DataClasses.kt" "../" "./")
+
+ ("/gitroot/research/BewerberAufgabe/Aufgabe/" (22977 3300 6499 172000) "operations-large.xml" "operations-large.xml~" "data-large.xml" "data-large.xml~" "output.xml" "operations.xml" "data.xml" "Interview Fragen.txt" "Aufgabe.pdf" "Aufgabe für Bewerber - PPM Entwicklung.doc" "../" "./")
+
+ ("/tmp/itdesign bewerberaufgabe mmorgalla/src/test/groovy/de/itdesign/bewerberaufgabe/" (22970 25942 0 0) "mmorgalla/" "../" "./")
+
+ ("/gitroot/research/BewerberAufgabe/Bewerber/Izadshenas/src/" (22975 30668 438313 245000) "XmlParsing.java" "Main.java" "Result.java" "Opration.java" "XmlOperation.java" "City.java" "../" "./")
+
+ ("/gitroot/beiersdorf/source/accoladeif/src/de/itdesign/beiersdorf/model/subproject/" (22618 47087 935138 487000) "ScSubProject.groovy" "RnDSubProject.groovy" "PackDevSubProject.groovy" "GbuSubProject.groovy" "../" "./")
+
+ ("/gitroot/siemens/clarity/META-INF/projmgr/xbl/odf/" (22804 7398 914684 879000) "projectUpdateService.xbl" "taskInsertService.xbl.org" "taskInsertService.xbl" "projectUpdateService.xbl.org" "projectInsertService.xbl.org" "projectInsertService.xbl" "../" "./")
+
+ ("/gitroot/siemens/clarity/zitdscripts/gel/" (22537 58510 788985 843000) "grant_pa_manager_rights_to_pr.groovy.parameters" "grant_pa_manager_rights_to_pr.groovy" "../" "./")
+
+ ("/gitroot/xog/14.2.0/xml/" (22676 38197 183235 11000) "wipClass_write.xml" "wipClass_read.xml" "vendor_write.xml" "vendor_read.xml" "transactionclass_write.xml" "transactionclass_read.xml" "statussample.xml" "rsm_skills_write.xml" "rsm_skills_read.xml" "rsm_resources_write.xml" "rsm_resources_read.xml" "roles_write.xml" "roles_read.xml" "risk_write.xml" "resourceclass_write.xml" "resourceclass_read.xml" "requisitions_write.xml" "requisitions_read.xml" "requirements_write.xml" "requirements_read.xml" "releases_write.xml" "releases_read.xml" "release_plans_write.xml" "release_plans_read.xml" "property_view_write.xml" "property_view_read.xml" "processnotification_write.xml" "processnotification_read.xml" "prj_typecodes_write.xml" "risk_read.xml" "prj_typecodes_read.xml" "prj_timeperiods_write.xml" "prj_timeperiods_read.xml" "prj_projects_write.xml" "prj_projects_wbs_deps_write.xml" "prj_projects_wbs_deps_read.xml" "prj_projects_task_estimate_create.xml" "prj_projects_read.xml" "prj_projects_layout_default_write.xml" "prj_projects_from_template_write.xml" "prj_projects_baselines_read.xml" "prj_projects_baseline_create.xml" "prj_projects_assignment_role_write.xml" "prj_projects_alloc_act_etc_write.xml" "prj_projects_alloc_act_etc_read.xml" "prj_programs_write.xml" "prj_programs_read.xml" "prj_chargecodes_write.xml" "prj_chargecodes_read.xml" "portlets_write.xml" "portlets_read.xml" "pfm_portfolio_read.xml" "pages_write.xml" "pages_read.xml" "pac_glaccount_write.xml" "pac_artransactions_read.xml" "olts_timeperiods_read.xml" "obs_write.xml" "obs_read.xml" "object_write.xml" "object_read.xml" "notification_write.xml" "notification_read.xml" "menus_write.xml" "menus_read.xml" "matrices_write.xml" "matrices_read.xml" "locations_write.xml" "locations_read.xml" "list_view_write.xml" "list_view_read.xml" "issue_write.xml" "issue_read.xml" "investmentClass_write.xml" "investmentClass_read.xml" "inv_services_write.xml" "inv_services_read.xml" "inv_products_write.xml" "inv_products_read.xml" "inv_others_write.xml" "inv_others_read.xml" "inv_assets_write.xml" "inv_assets_read.xml" "inv_applications_write.xml" "inv_applications_read.xml" "incident_write.xml" "incident_read.xml" "imp_transactions_write.xml" "imp_transactions_read.xml" "ideas_write.xml" "ideas_read.xml" "groups_write.xml" "groups_read.xml" "entity_write.xml" "entity_read.xml" "documents_write_ext.xml" "documents_write.xml" "documents_read.xml" "department_write.xml" "department_read.xml" "cview_write.xml" "cview_read.xml" "custom_object_write.xml" "custom_object_read.xml" "custom_object_instances_write.xml" "custom_object_instances_read.xml" "costPlusCodes_write.xml" "costPlusCodes_read.xml" "costPlan_write.xml" "costPlan_read.xml" "content_package_write.xml" "content_package_read.xml" "content_pack_write.xml" "content_pack_read.xml" "companyClass_write.xml" "companyClass_read.xml" "cmn_users_write.xml" "cmn_users_read.xml" "cmn_ui_themes_write.xml" "cmn_ui_themes_read.xml" "cmn_sch_job_definitions_write.xml" "cmn_sch_job_definitions_read.xml" "change_write.xml" "change_read.xml" "cbk_gl_accounts_write.xml" "cbk_gl_account_read.xml" "cbk_allocation_read.xml" "category_write.xml" "category_read.xml" "caplan_scenarios_write.xml" "caplan_scenarios_read.xml" "budgetPlan_write.xml" "budgetPlan_read.xml" "bpm_processes_write.xml" "bpm_processes_read.xml" "biz_companies_write.xml" "biz_companies_read.xml" "benefitPlan_write.xml" "benefitPlan_read.xml" "../" "./")
+
+ ("/gitroot/kratzer/misc/PPM_OAS_IMPORT/" (22925 45646 275982 471000) "#PPM_OAS_PROJECT_IMPORT.sql#" ".#PPM_OAS_PROJECT_IMPORT.sql" "PPM_OAS_TASK_IMPORT.sql" "PPM_OAS_PROJECT_IMPORT.sql" "../" "./")
+
+ ("/gitroot/siemens/database/scripts/" (22773 57193 83011 674000) "migrate-portfolios.sql" "remove menuitems for budgetplanning.sql" "lock_name_desc_for_read_only_proj.sql" "lock-new-version-fields.sql" "../" "./")
+
+ ("/gitroot/siemens/database/procedures/" (22841 16991 59306 571000) "z_sync_portfolio_obs_all_job.sql" "z_sync_portfolio_obs_qpr.sql" "z_sync_portfolio_obs_prj.sql" "z_itd_linkobjectobs_sp.prc" "z_prep_appr_rcpts_sp.sql" "z_sie_if_001.prc" "z_qpr_write_actuals.sql" "z_project_complete_check.prc" "z_lock_project.prc" "../" "./")
+
+ ("/gitroot/kratzer/source/data_mig_create_resource_xog/" (22847 43166 625502 309000) "resource_data.xlsx" "data_mig_create_resource_xog.groovy" "isrexec.properties" "isrexec" "lib/" "../" "./")
+
+ ("/gitroot/siemens/database/functions/" (22838 30944 963915 235000) "z_milestone_status_color_fct.sql" "z_milestone_indicator_fct.sql" "../" "./")
+
+ ("/home/dh/BST/" (22832 11764 823642 608000) "bst.org" "../" "./")
+
+ ("/gitroot/kratzer/xog/" (22921 46331 449798 877000) "xog.properties" "themes/" "run.bat" "queries/" "run" "processes/" "portlets/" "pages/" "jobs/" "instances/" "groups/" "fields/" "lookups/" "env.sh" "../" "./")
+
+ ("/gitroot/kratzer/xog/instances/" (22920 16250 284899 492000) "projecs-train-active_write.xml" "projecs-train-active_write_out-1.xml~" "projecs-train-active_write_out-2.xml~" "projecs-train-active_write.xml~" "users_to_import_write.xml" "resources_to_import_write.xml" "roles_KA.xml" "pl_itd_ae_actions_instances_write.xml" "pl_itd_ae_actions_instances_read.xml" "departments_KA.xml" "PRJ-00000419_write.xml" "PRJ-00000419_read.xml" "PRJ-00000391_write.xml" "PRJ-00000391_read.xml" "PRJ-00000369_write.xml" "PRJ-00000369_read.xml" "PRJ-00000154_write.xml" "PRJ-00000154_read.xml" "../" "./")
+
+ ("/gitroot/kratzer/clarity/webroot/help/" (22920 24096 851388 211000) "wikiHelp.properties.org" "wikiHelp.properties" "../" "./")
+
+ ("/tmp/YILMAZ/itdesign Task Folder/Solution/IntelliJ Project Files/XML Operation Applier/" (22905 57120 0 0) "XML Operation Applier.iml" "src/" "out/" ".idea/" ".DS_Store" "../" "./")
+
+ ("/tmp/YILMAZ/itdesign Task Folder/Solution/IntelliJ Project Files/" (22905 57120 0 0) "XML Operation Applier/" ".DS_Store" "../" "./")
+
+ ("/tmp/YILMAZ/itdesign Task Folder/Solution/" (22905 57120 0 0) "Source.java" "IntelliJ Project Files/" "Build (JAR)/" ".DS_Store" "../" "./")
+
+ ("/tmp/YILMAZ/itdesign Task Folder/" (22920 12214 641003 227000) "Task/" "Solution/" "Description (EN).docx" ".DS_Store" "../" "./")
+
+ ("/tmp/YILMAZ/" (22920 12296 906804 608000) "output.xml" "__MACOSX/" "itdesign Task Folder/" "../" "./")
+
+ ("/gitroot/kratzer/clarity/webroot/ui/" (22814 51145 987431 60000) "uitk/" "uif/" "ppm-build.js" "pfm/" "npt/" "itd/" "ext/" "evolution2/" "evolution1/" "deploy.sh" "build.sh" "build.bat" "../" "./")
+
+ ("/gitroot/kratzer/xog/portlets/" (22913 59111 803642 10000) "z_status_reports_write.xml" "cop.prjScheduleDashboard_write.xml" "z_status_reports_read.xml" "cop.prjScheduleDashboard_write_org.xml" "cop.prjScheduleDashboard_read.xml" "z_project_nav_write.xml" "z_project_nav_read.xml" "z_ka_home_write.xml" "z_ka_home_read.xml" "z_itd_xog_client_write.xml" "z_interface_overview_write.xml" "z_interface_details_write.xml" "../" "./")
+
+ ("/gitroot/tools/CleaningUpSystem/Notes/" (22912 39368 185210 678000) "itd-more-notes.txt" "Deleting Investments.docx" "5_Delete_departments_Notes.docx" "4_DeleteAllLocationsFromDepartments_Notes.docx" "../" "./")
+
+ ("/gitroot/tools/CleaningUpSystem/gel/" (22776 49910 655675 509000) "8_Delete_old_groups.xml" "7_Delete_resource_slices.xml" "6_Delete_resources_and_users.xml" "5_Delete_departments.txt" "4_DeleteAllLocationsFromDepartments.txt" "3_Remove_resources_from_departments.xml" "2_Deactivate_Invs.xml" "1_Delete_Actuals.xml" "../" "./")
+
+ ("/gitroot/tools/CleaningUpSystem/xog/processes/" (22777 47405 994629 79000) "z_cleanup_v1.xml" "z_cleanup_v1.xml~" "../" "./")
+
+ ("/gitroot/tools/" (22776 49103 126865 707000) "CleaningUpSystem/" ".gitignore" "svnrevimport/" "svn2xml/" "sql/" "packager/" "mkxog/" "jEdit/" "itdgradle/" "itdResourceKeyCheck/" "itdCurveDebugger/" "groovy-to-sql/" "greasemonkey/" "XogOutline/" "XmlSorter/" "WebXog/" "SVNLog2Clarity/" "SVN2KLAR/" "RequirementExport/" "ProjectCreator/" "Java/" "ImplementationRevisionLinker/" "GWT-Template/" "FieldImport/" "DBDiff2Xog/" ".git/" "../" "./")
+
+ ("/gitroot/" (22894 64139 207250 54000) "vkb/" "research/" "java8-env.sh" "java7-env.sh" "kuechenmonitor/" "qiagen/" "dehn/" "schenker/" "utm/" "fmg/" "consors/" "mms/" "eon/" "dz/" "trw/" "siemens/" "other/" "beiersdorf/" "total/" "packager/" "kratzer/" "klar/" "kaufland/" "itdscriptsupport/" "itdscriptsupport.old/" "libs/" "qia/" ".dir-locals.el" "Spielwiese/" "tools/" "itdcommon/" "xog/" "communote-migration/" "xraummon/" "groovy-schulung/" "assignmenteditor-tools/" "itdwebdav/" "../" "./")
+
+ ("/gitroot/siemens/xog/lookups/" (22912 14494 733885 316000) "BROWSE_PROJMGR_write.xml" "Z_PLATFORM_MANAGERS_write.xml" "Z_BROWSE_PROJMGR_write.xml" "Z_USERS_RD_EN_HEAD_write.xml" "Z_USERS_QA_write.xml" "Z_USERS_BA_write.xml" "Z_CHIEF_ENGINEERS_write.xml" "Z_CERTIFICATION_write.xml" "BROWSE_PROJMGR_read.xml" "Z_USERS_RD_EN_HEAD_read.xml" "Z_USERS_BA_read.xml" "Z_PORTFOLIO_write.xml" "Z_PORTFOLIO_read.xml" "Z_RISK_STATUS_write.xml" "../" "./")
+
+ ("/gitroot/kratzer/xog/processes/" (22907 10350 281579 567000) "z_timeapproval_v2_write.xml" "z_timeapproval_v2_write.xml~" "#z_timeapproval_v1_write.xml#" ".#z_timeapproval_v1_write.xml" "z_approvecharter_v1_write.xml" "z_clear_pnr_v1_write.xml" "z_change_approval_v2_write.xml" "z_change_approval_v2_read.xml" "z_timeapproval_v1_write.xml" "z_timeapproval_v1_read.xml" "z_prj_stage_plan_to_exec_v1_write.xml" "z_prj_stage_plan_to_exec_v1_read.xml" "z_prj_stage_exec_to_close_v1_write.xml" "z_prj_stage_exec_to_close_v1_read.xml" "z_prj_closure_activities_v1_write.xml" "z_prj_closure_activities_v1_read.xml" "z_clear_pnr_v1_read.xml" "z_change_approval_v1_write.xml" "z_change_approval_v1_read.xml" "z_approvecharter_v1_read.xml" "../" "./")
+
+ ("/gitroot/kratzer/clarity/zitdscripts/" (22907 7934 873372 392000) "isrexec" "isrexec~" "ppmmail.groovy" "mail-template.html" "isrexec.properties" "isrexec.parameters" "isrexec.bat" "xbl/" "gel/" "../" "./")
+
+ ("/gitroot/kratzer/xog/themes/" (22905 40713 317401 708000) "z_kratzer_write.xml" "z_kratzer_read.xml" "../" "./")
+
+ ("/gitroot/kratzer/clarity/" (22842 24407 945906 569000) "login.conf" "krb5.conf" "zitdscripts/" "webroot/" "resource/" "config/" "META-INF/" "customlib/" "../" "./")
+
+ ("/gitroot/xraummon/apache-tomcat-7.0.47/webapps/ROOT/commitmon/" (22905 61414 988758 164000) "repos.http" "commits.groovy" "project.clj" "repos.groovy" "figwheel_server.log" "target/" "README.md" ".gitignore" "resources/" "src/" "dev/" "../" "./")
+
+ ("/gitroot/kratzer/database/tables/" (22814 51146 27431 925000) "z_pnr.sql" "z_itd_if.sql" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

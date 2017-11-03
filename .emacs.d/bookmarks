@@ -1,0 +1,53 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("newton"
+ (filename . "/ssh:clarity@newton.itdhosting.de:/opt/ca/ppm/")
+ (front-context-string . "tomcat-nsa-deplo")
+ (rear-context-string . "96 Oct 10 07:53 ")
+ (position . 1262))
+("xcldbsysdev"
+ (filename . "/smb:Administrator@xcldbsysdev:/c$/ca/ppm/")
+ (front-context-string . ".setup\n  drwxrwx")
+ (rear-context-string . " 0 Sep 28 20:43 ")
+ (position . 222))
+("xclkratzerdev"
+ (filename . "/smb:Administrator@xclkratzerdev:/C$/ca/ppm/")
+ (front-context-string . ".git\n  drwxrwxrw")
+ (rear-context-string . " 0 Jan  3 17:03 ")
+ (position . 224))
+("xcldavinci"
+ (filename . "/smb:Administrator@xcldavinci:/C$/ca/ppm/")
+ (front-context-string . ".setup\n  drwxrwx")
+ (rear-context-string . " 0 Sep  6 16:22 ")
+ (position . 221))
+("xclppm"
+ (filename . "/smb:Administrator@xclppm:/C$/niku/clarity/")
+ (front-context-string . ".setup\n  drwxrwx")
+ (rear-context-string . " 0 Jul 13 20:57 ")
+ (position . 223))
+("xcldevdev"
+ (filename . "/smb:Administrator@xcldevdev:/C$/niku/clarity/")
+ (front-context-string . ".setup\n  drwxrwx")
+ (rear-context-string . " 0 Mai 16  2014 ")
+ (position . 226))
+("xclbdftest"
+ (filename . "/smb:Administrator@xclbdftest:/c$/niku/clarity/")
+ (front-context-string . ".hg\n  drwxrwxrwx")
+ (rear-context-string . " 0 Okt 23 13:57 ")
+ (position . 227))
+("xclbdfdev"
+ (filename . "/smb:Administrator@xclbdfdev:/c$/ca/clarity/")
+ (front-context-string . ".hg\n  drwxrwxrwx")
+ (rear-context-string . " 0 Nov 24 15:04 ")
+ (position . 224))
+("xclsiemensdev"
+ (filename . "/smb:Administrator@xclsiemensdev:/c$/niku/clarity/")
+ (front-context-string . ".hg\n  drwxrwxrwx")
+ (rear-context-string . " 0 Nov 24 15:04 ")
+ (position . 224))
+("xclmmsdev"
+ (filename . "/smb:Administrator@xclmmsdev:/e$/niku/clarity/")
+ (position . 224))
+)

@@ -1,0 +1,128 @@
+68	./source/java/planning/build/classes/main/de/itdesign/clarity/siemens/planning
+who am i
+/bin/who am i
+/usr/bin/who am i
+cd ../qiagen
+magit-status
+cd ../kratzer/clarity/webroot/
+ls
+cd ui/ls
+cd ui/
+ls
+./build.sh 
+./deploy.sh 
+./build.sh 
+./deploy.sh 
+./build.sh 
+listify hallo welt -f datei
+calc-eval 5+4
+calc-eval 5 + 4
+vc-dir
+vc-dir .
+vc-dir . git
+ls
+cd ../packages/
+ls
+./packager.sh 
+fossil status .emacs
+ls repos/
+fossil open repos/home-dotfiles 
+fossil status
+fossil diff .emacs
+man fossil
+fossil diff .emacs
+fossil status
+fossil finfo .emacs
+fossil finfo .zshrc
+fossil log
+fossil help status
+fossil status --changed
+fossil changes
+ls app/groovy-2.4.7/
+which scheme48
+scsh
+exit
+man git-log
+man git-logman git-log
+git log -L 1 -- themes/z_kratzer_write.xml
+git log -L 1,1 -- themes/z_kratzer_write.xml
+git log -1 -- themes/z_kratzer_write.xml
+q
+cd ..
+cd ..cd ..
+git log -1 -- xog/themes/z_kratzer_write.xml
+git log -1 -- xog/themes/z_kratzer_write.xml
+cd /tmpgit log -1 -- xog/themes/z_kratzer_write.xmlcd /tmpgit log -1 -- xog/themes/z_kratzer_write.xml
+ls
+cd xog/processes/
+ls -l
+f-f z_
+f-f z_timeapproval_v1_write.xml
+find-file z_timeapproval_v1_write.xml
+cd ..
+cd ..
+git push origin ab4868e:master
+cd 
+cd app
+cd squirrelsql-3.8.0-optional/
+ls -l
+chmod u+x squirrel-sql.sh
+cd ..
+cd ../src
+dired
+dired .
+ls
+cd /gitroot/kratzer/clarity/webroot/ui/
+ls
+./ppm-build.js
+./build.sh 
+./build.sh && ./deploy.sh 
+./build.sh && ./deploy.sh 
+./build.sh && ./deploy.sh 
+./build.sh && ./deploy.sh 
+./build.sh && ./deploy.sh 
+./build.sh && ./deploy.sh 
+./build.sh && ./deploy.sh 
+./build.sh && ./deploy.sh 
+./build.sh && ./deploy.sh 
+cd ..
+cd ..
+cd ../xog/fields/
+./extract.sh  R10.cfg 
+cd ..
+cd ..
+cd ..
+cd beiersdorf/clarity/
+cd webroot/bdf/nav/
+ls
+git diff 6946353bc39ba6b96ad623502d53d16d99b7b0d8:prj_nav.groovy prj_nav.groovy 
+cd /tmp
+cd -
+cd ..
+cd ..
+cd ..
+cd ..
+cd xog
+ls -l
+cd ..
+cd ..
+cd db-systel/xog/
+mkxog
+ls -l
+~/bin/mkxog 
+cat ~/bin/mkxog 
+python /gitroot/tools/mkxog/mkxog.py
+./run 
+. ./env.sh 
+./run 
+cat env.sh 
+lssh 
+JAVA_HOME=~/app/jdk1.7.0_72/
+./run 
+export JAVA_HOME=~/app/jdk1.7.0_72/
+./run 
+python /gitroot/tools/mkxog/mkxog.py
+./run 
+./run 
+f-f
+find-file .

@@ -1,0 +1,215 @@
+;; -*- emacs-lisp -*- <17/10/13 12:44:01 /home/dh/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["smb" "Administrator" "xclbdftest" nil nil]
+  ("smbclient-version" "Version 4.4.5-Debian")
+  ("smbserver-version" "Domain=[XCLBDFTEST] OS=[Windows Server 2012 R2 Standard 9600] Server=[Windows Server 2012 R2 Standard 6.3]")
+  ("share-cache"
+   (("C$" "dr-xr-xr-x" 0
+     (0 0))
+    ("ADMIN$" "dr-xr-xr-x" 0
+     (0 0)))))
+ (["smb" "Administrator%xclbdftest" "xclbdftest" nil nil]
+  ("smbclient-version" "Version 4.1.13-Debian")
+  ("smbserver-version" "Domain=[XCLBDFTEST] OS=[Windows Server 2012 R2 Standard 9600] Server=[Windows Server 2012 R2 Standard 6.3]"))
+ (["smb" "Administrator" "xclsiemensdev" nil nil]
+  ("smbclient-version" "Version 4.5.8-Debian")
+  ("smbserver-version" "Domain=[XCLSIEMENSDEV] OS=[Windows Server 2008 R2 Enterprise 7601 Service Pack 1] Server=[Windows Server 2008 R2 Enterprise 6.1]")
+  ("share-cache"
+   (("C$" "dr-xr-xr-x" 0
+     (0 0))
+    ("ADMIN$" "dr-xr-xr-x" 0
+     (0 0)))))
+ (["smb" "Administrator" "xclbdfdev" nil nil]
+  ("smbclient-version" "Version 4.5.8-Debian")
+  ("smbserver-version" "Domain=[XCLBDFDEV] OS=[Windows Server 2012 R2 Standard 9600] Server=[Windows Server 2012 R2 Standard 6.3]")
+  ("share-cache"
+   (("print$" "dr-xr-xr-x" 0
+     (0 0))
+    ("C$" "dr-xr-xr-x" 0
+     (0 0))
+    ("ADMIN$" "dr-xr-xr-x" 0
+     (0 0)))))
+ (["smb" "Administrator" "xcldevdev" nil nil]
+  ("smbclient-version" "Version 4.5.2-Debian")
+  ("smbserver-version" "Domain=[XCLDEVDEV] OS=[Windows Server 2008 R2 Enterprise 7601 Service Pack 1] Server=[Windows Server 2008 R2 Enterprise 6.1]")
+  ("share-cache"
+   (("C$" "dr-xr-xr-x" 0
+     (0 0))
+    ("ADMIN$" "dr-xr-xr-x" 0
+     (0 0)))))
+ (["smb" "Administrator" "xcldzdev" nil nil]
+  ("smbclient-version" "Version 4.1.17-Debian")
+  ("smbserver-version" "Domain=[XCLDZDEV] OS=[Windows Server 2008 R2 Enterprise 7601 Service Pack 1] Server=[Windows Server 2008 R2 Enterprise 6.1]")
+  ("share-cache"
+   (("C$" "dr-xr-xr-x" 0
+     (0 0))
+    ("ADMIN$" "dr-xr-xr-x" 0
+     (0 0)))))
+ (["smb" "Administrator" "xclppm" nil nil]
+  ("smbclient-version" "Version 4.5.8-Debian")
+  ("smbserver-version" "Domain=[XCLPPM] OS=[Windows Server 2012 R2 Standard 9600] Server=[Windows Server 2012 R2 Standard 6.3]")
+  ("share-cache"
+   (("C$" "dr-xr-xr-x" 0
+     (0 0))
+    ("ADMIN$" "dr-xr-xr-x" 0
+     (0 0)))))
+ (["ssh" "root" "xraummon" nil nil]
+  ("locale" "LC_ALL=C")
+  ("uname" "Linux 2.6.32-358.23.2.el6.x86_64")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("id" "/usr/bin/id")
+  ("gid-string" "root")
+  ("perl" nil)
+  ("ls" "/bin/ls --color=never")
+  ("gid-integer" 0)
+  ("ls-dired" t)
+  ("readlink" "\\readlink")
+  ("git" nil)
+  ("uid-integer" 0)
+  ("tmpdir" "/ssh:root@xraummon:/tmp")
+  ("touch-t" t)
+  ("touch" "\\touch")
+  ("trash" nil)
+  ("~" "/root")
+  ("bzr" nil))
+ (["sudo" "root" "PPM-Entw12" nil nil]
+  ("locale" "LC_ALL=C")
+  ("uname" "Linux 4.7.0-1-amd64")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("id" "/usr/bin/id")
+  ("gid-string" "root")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("readlink" "\\readlink")
+  ("gid-integer" 0)
+  ("uid-integer" 0)
+  ("git" "\\git")
+  ("tmpdir" "/sudo:root@PPM-Entw12:/tmp")
+  ("touch-t" t)
+  ("touch" "\\touch")
+  ("ls" "/bin/ls --color=never")
+  ("ls-dired" t))
+ (["smb" "Administrator" "xclmmsdev" nil nil]
+  ("smbclient-version" "Version 4.4.6-Debian")
+  ("smbserver-version" "Domain=[XCLMMSDEV] OS=[Windows Server 2008 R2 Enterprise 7601 Service Pack 1] Server=[Windows Server 2008 R2 Enterprise 6.1]")
+  ("share-cache"
+   (("E$" "dr-xr-xr-x" 0
+     (0 0))
+    ("dump" "dr-xr-xr-x" 0
+     (0 0))
+    ("D$" "dr-xr-xr-x" 0
+     (0 0))
+    ("C$" "dr-xr-xr-x" 0
+     (0 0))
+    ("ADMIN$" "dr-xr-xr-x" 0
+     (0 0)))))
+ (["smb" "Administrator" "xcldavinci" nil nil]
+  ("smbclient-version" "Version 4.4.7-Debian")
+  ("smbserver-version" "Domain=[XCLDAVINCI] OS=[Windows Server 2012 R2 Standard 9600] Server=[Windows Server 2012 R2 Standard 6.3]")
+  ("share-cache"
+   (("C$" "dr-xr-xr-x" 0
+     (0 0))
+    ("ADMIN$" "dr-xr-xr-x" 0
+     (0 0)))))
+ (["smb" "Administrator" "xclkratzerdev" nil nil]
+  ("smbclient-version" "Version 4.5.12-Debian")
+  ("smbserver-version" "Domain=[XCLKRATZERDEV] OS=[Windows Server 2012 R2 Standard 9600] Server=[Windows Server 2012 R2 Standard 6.3]")
+  ("share-cache"
+   (("C$" "dr-xr-xr-x" 0
+     (0 0))
+    ("ADMIN$" "dr-xr-xr-x" 0
+     (0 0)))))
+ (["ssh" "root" "xclfmgtest" nil nil]
+  ("locale" "LC_ALL=C")
+  ("uname" "Linux 2.6.32-504.23.4.el6.x86_64")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("id" "/usr/bin/id")
+  ("gid-string" "root")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("ls" "/bin/ls --color=never")
+  ("ls-dired" t)
+  ("gid-integer" 0)
+  ("readlink" "\\readlink")
+  ("bzr" nil)
+  ("git" nil)
+  ("hg" nil))
+ (["ssh" "root" "xclfischer.itd.local" nil nil]
+  ("locale" "LC_ALL=C")
+  ("uname" "Linux 3.10.0-327.el7.x86_64")
+  ("test" "test")
+  ("remote-path"
+   ("/usr/bin" "/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("id" "/usr/bin/id")
+  ("gid-string" "root")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("ls" "/usr/bin/ls --color=never")
+  ("ls-dired" t)
+  ("gid-integer" 0)
+  ("readlink" "\\readlink")
+  ("git" "\\git"))
+ (["smb" "Administrator" "xclkratzertest" nil nil]
+  ("smbclient-version" "Version 4.5.8-Debian")
+  ("smbserver-version" "Domain=[XCLKRATZERTEST] OS=[Windows Server 2012 R2 Standard 9600] Server=[Windows Server 2012 R2 Standard 6.3]")
+  ("share-cache"
+   (("C$" "dr-xr-xr-x" 0
+     (0 0))
+    ("ADMIN$" "dr-xr-xr-x" 0
+     (0 0)))))
+ (["smb" "Administrator" "PPM-Entw12" nil nil]
+  ("smbclient-version" "Version 4.5.8-Debian"))
+ (["smb" "Administrator" "xcldbsysdev" nil nil]
+  ("smbclient-version" "Version 4.5.8-Debian")
+  ("smbserver-version" "Domain=[XCLDBSYSDEV] OS=[Windows Server 2016 Standard 14393] Server=[Windows Server 2016 Standard 6.3]")
+  ("share-cache"
+   (("C$" "dr-xr-xr-x" 0
+     (0 0))
+    ("ADMIN$" "dr-xr-xr-x" 0
+     (0 0)))))
+ (["sshx" nil "ssh" nil nil]
+  nil)
+ (["ssh" "clarity" "newton.itdhosting.de" nil nil]
+  ("locale" "LC_ALL=en_US.utf8")
+  ("uname" "Linux 2.6.32-642.3.1.el6.x86_64")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("id" "/usr/bin/id")
+  ("gid-string" "oinstall")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("ls" "/bin/ls --color=never")
+  ("ls-dired" t)
+  ("gid-integer" 1001)
+  ("readlink" "\\readlink")
+  ("tmpdir" "/ssh:clarity@newton.itdhosting.de:/tmp")
+  ("touch-t" t)
+  ("touch" "\\touch")))
